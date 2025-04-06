@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+}
+
+th.mat-header-cell {
+  background-color: #f0f0f0;
+}
+
+.name {
+  cursor: pointer;
+}
+
+.name:hover {
+  background-color: #e0e0e0;
+}
+
+.player {
+  width: 300px;
+  margin: 50px auto;
+}
+
+h3,h4 {
+  text-align: center;
+}
